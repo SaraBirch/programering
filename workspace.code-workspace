@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../BIS"
+		},
+		{
+			"path": "../Desktop/ex02-solution"
+		},
+		{
+			"path": "../Desktop/flexbox-examples"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flexbox-examples"
+	}
+}
